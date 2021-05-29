@@ -1,0 +1,13 @@
+{
+  "entity.bossmobs.boss_blaze": "Boss Blaze",
+  "entity.bossmobs.boss_enderman": "Boss Enderman",
+  "entity.bossmobs.boss_pillager": "Boss Pillager",
+  "entity.bossmobs.boss_sheep": "Boss Sheep",
+  "entity.bossmobs.boss_witch": "Boss Witch",
+
+  "item.bossmobs.boss_blaze_spawn_egg" : "Boss Blaze Spawn Egg",
+  "item.bossmobs.boss_enderman_spawn_egg" : "Boss Enderman Spawn Egg",
+  "item.bossmobs.boss_pillager_spawn_egg" : "Boss Pillager Spawn Egg",
+  "item.bossmobs.boss_sheep_spawn_egg" : "Boss Sheep Spawn Egg",
+  "item.bossmobs.boss_witch_spawn_egg" : "Boss Witch Spawn Egg"
+}
